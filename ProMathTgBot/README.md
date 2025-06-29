@@ -5,7 +5,7 @@
 When a user starts a chat with a bot, he or she registers with a ChatID. Users and their computing histories are stored in a relational database. All data except the history is encrypted and protected. There is an endpoint for administrators to check the database connection.
 ☄️☄️☄️
 
-Using TG-API and R$_{lang}$ for plot's. 
+Using TG-API and R $_{lang}$ for plot's. 
 
 This bot has the following functions:
 - ## Base operations:
